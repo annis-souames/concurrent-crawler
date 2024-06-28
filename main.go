@@ -1,6 +1,7 @@
 package main
 
 import (
+	"annis/webcrawler/crawler"
 	"fmt"
 )
 
