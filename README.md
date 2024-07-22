@@ -1,8 +1,8 @@
 ## Distributed Web Crawler
 
-This project is a simple concurrent web crawler to learn concurrency concepts in Go such as Goroutines, channels, mutexes, locks, wait groups.
+This project is a simple concurrent web crawler to learn concurrency concepts in Go such as Goroutines, channels, mutexes, locks, and wait groups.
 
-To run this project, simply clone the project, install the `net/html` project, build it and then run it:
+To run this project, simply clone the project, install the `net/html` package, build it and then run it:
 
 ```
 go get golang.org/x/net/html
